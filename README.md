@@ -33,6 +33,10 @@ Ensure you have the following prerequisites before using the PowerPython Toolkit
 To run the Python scripts, follow these general instructions:
 
 ```bash
-python script.py --arg value
+pip3 install -r requirements.txt
 
+python3 script.py --arg value
+```
+123
 ## Contributers
+Just myself for now, however if you're interested in modifying any of this code, feel free to and let me know if you do anything fun/cool with it!
