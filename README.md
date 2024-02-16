@@ -9,7 +9,7 @@ Welcome to the PowerPython Toolkit, a collection of versatile Python scripts des
 - [Prerequisites](#prerequisites)
 - [Usage](#usage)
 - [Python Scripts](#python-scripts)
-- [Contributing](#contributing)
+- [Contributers](#contributers)
 
 
 ## Introduction
@@ -34,3 +34,5 @@ To run the Python scripts, follow these general instructions:
 
 ```bash
 python script.py --arg value
+
+## Contributers
