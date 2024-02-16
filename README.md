@@ -1,6 +1,6 @@
 # PowerPython Toolkit
 
-Welcome to the PowerPython Toolkit, a collection of versatile Python scripts designed to streamline tasks related to on-prem servers, cloud servers, facilitate learning Python, and enhance penetration testing efforts.
+Welcome to the PowerPython Toolkit, a set of Python and Powershell scripts offering solutions for tasks associated with on-premises servers, cloud environments, Network scanning, DNS Resolution, Python learning, and Penetration testing.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ Welcome to the PowerPython Toolkit, a collection of versatile Python scripts des
 
 ## Introduction
 
-The PowerPython Toolkit is a comprehensive set of Python scripts offering solutions for tasks associated with on-premises servers, cloud environments, Python learning, and penetration testing.
+The PowerPython Toolkit is a set of Python and Powershell scripts offering solutions for tasks associated with on-premises servers, cloud environments, Network scanning, DNS Resolution, Python learning, and Penetration testing.
 
 ## Features
 
@@ -37,6 +37,6 @@ pip3 install -r requirements.txt
 
 python3 script.py --arg value
 ```
-123
+
 ## Contributers
 Just myself for now, however if you're interested in modifying any of this code, feel free to and let me know if you do anything fun/cool with it!
